@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2733d42-857a-4d23-b97f-4ddbe0d4957a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Yn2TcWZYaF4k6UROlzmluBGD5t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Elsa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Elsa" />
+      <module name="untitled3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Elsa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2733d42-857a-4d23-b97f-4ddbe0d4957a" name="Default Changelist" comment="" />
+      <created>1583564046402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583564046402</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1033" height="381" key="GridCell.Tab.0.bottom" timestamp="1583565125704">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1033" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1583565125704" />
+    <state width="1033" height="381" key="GridCell.Tab.0.center" timestamp="1583565125703">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1033" height="381" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1583565125703" />
+    <state width="1033" height="381" key="GridCell.Tab.0.left" timestamp="1583565125702">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1033" height="381" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1583565125702" />
+    <state width="1033" height="381" key="GridCell.Tab.0.right" timestamp="1583565125703">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1033" height="381" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1583565125703" />
+    <state x="1651" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1583564547320">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1651" y="524" key="com.intellij.ide.util.TipDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1583564547320" />
+  </component>
+</project>
